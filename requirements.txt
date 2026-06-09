@@ -1,0 +1,5 @@
+PyQt6==6.11.0
+pyqt6_sip==13.10.2
+Requests==2.34.2
+urllib3==2.7.0
+yt_dlp==2026.3.17
