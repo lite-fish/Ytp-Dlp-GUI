@@ -15,3 +15,28 @@
 
 欢迎感兴趣的佬接手该项目（或者提交代码），你也可用通过nuitka将其编译成直接可用的客户端
 
+## 依赖
+- Python 3.8+
+- FFmpeg（视频合并需要）
+- yt-dlp
+
+## 安装
+
+```bash
+# 克隆仓库
+git clone https://github.com/lite-fish/Ytp-Dlp-GUI.git
+cd Ytp-Dlp-GUI
+
+# 创建虚拟环境（推荐）
+python -m venv venv
+venv\Scripts\activate  # Windows
+
+# 安装依赖
+pip install -r requirements.txt
+
+# 运行
+python 2.py
+
+## 许可证
+AGPL-3.0 license
+
