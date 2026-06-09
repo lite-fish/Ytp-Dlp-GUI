@@ -1,9 +1,9 @@
-# Ytp-Dlp-GUI
+# Yt-Dlp-GUI
 <img width="256" height="256" alt="ak3mh-4ls6r" src="https://github.com/user-attachments/assets/e9beec77-9453-4dfb-abd8-7261c99e3602" /><br>
 
 <img width="1455" height="829" alt="捕获" src="https://github.com/user-attachments/assets/ce77cbe1-6d6b-4166-9336-b49c708fc3f7" /><br>
 
-一个基于Ytp-dlp和QT6开发的简易GUI客户端
+一个基于Yt-dlp和QT6开发的简易GUI客户端
 
 由于我没有时间维护此项目，所以选择开源，包括完整的客户端文件
 
